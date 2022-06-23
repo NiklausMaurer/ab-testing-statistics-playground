@@ -1,3 +1,5 @@
+# Does sample B have a greater conversion rate than sample A?
+# Example data based on https://abtestguide.com/calc/
 
 n_a <- 80000 # size of sample A
 c_a <- 1600  # conversions within sample A
